@@ -89,8 +89,8 @@ namespace Artisan.UI
         {
             //if (DalamudInfo.IsOnStaging())
             //{
-                ImGui.Text($"Artisan is not designed to work on non-release versions of Dalamud. Please type /xlbranch, click 'release' and then 'Pick & Restart'.");
-                return;
+                //ImGui.Text($"Artisan is not designed to work on non-release versions of Dalamud. Please type /xlbranch, click 'release' and then 'Pick & Restart'.");
+                //return;
             //}
 
             var region = ImGui.GetContentRegionAvail();
